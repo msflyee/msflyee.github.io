@@ -2,7 +2,8 @@
 title: 易浩 # your site title
 author: msflyee # You :P
 description: > # Meta description of Homepage
-  记录点滴生活，不止于技术，总是热爱，多三分执着！
+    On the way, thinking, thanking.
+    记录点滴生活，不止于技术，多一分热爱，再加三分执着~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msflyee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,7 +25,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  On the way, thingking, thanking.
+  不止于技术
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: 1620148368@qq.com # email for form submission
