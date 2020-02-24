@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  On the way, thinking, thanking.
+  On the way, thinking, thanking.\n
   记录点滴生活，不止于技术，多一分热爱，再加三分执着~
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
