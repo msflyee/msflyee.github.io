@@ -61,7 +61,7 @@ exclude:
 include: ['_pages']
 permalink: /:title/
 
-compress_html:
+compress_html: 
   clippings: all
 
 plugins:
