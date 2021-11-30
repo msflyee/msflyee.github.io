@@ -21,8 +21,8 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
-  - {name: 'Hut', link:'/hut'}
+
+  - {name: 'Hut', link: '/hut'}
 
 tagline: >
   On the way, thinking, thanking.
